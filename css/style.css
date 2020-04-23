@@ -70,6 +70,7 @@ body {
 
 .module {
   flex-basis: 32%;
+  margin-bottom: 10px;
 }
 
 .module > h3 {
